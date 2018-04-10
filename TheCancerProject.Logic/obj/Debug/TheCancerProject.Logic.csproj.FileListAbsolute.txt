@@ -1,0 +1,5 @@
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Logic\bin\Debug\TheCancerProject.Logic.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Logic\bin\Debug\TheCancerProject.Logic.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Logic\obj\Debug\TheCancerProject.Logic.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Logic\obj\Debug\TheCancerProject.Logic.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Logic\obj\Debug\TheCancerProject.Logic.csprojResolveAssemblyReference.cache

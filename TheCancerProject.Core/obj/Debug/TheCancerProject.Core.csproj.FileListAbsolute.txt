@@ -1,0 +1,5 @@
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Core\bin\Debug\TheCancerProject.Core.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Core\bin\Debug\TheCancerProject.Core.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Core\obj\Debug\TheCancerProject.Core.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Core\obj\Debug\TheCancerProject.Core.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Core\obj\Debug\TheCancerProject.Core.csprojResolveAssemblyReference.cache

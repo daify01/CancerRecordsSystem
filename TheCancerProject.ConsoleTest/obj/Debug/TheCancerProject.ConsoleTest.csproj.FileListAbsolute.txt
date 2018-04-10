@@ -1,0 +1,10 @@
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.ConsoleTest\bin\Debug\TheCancerProject.ConsoleTest.exe.config
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.ConsoleTest\bin\Debug\TheCancerProject.ConsoleTest.exe
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.ConsoleTest\bin\Debug\TheCancerProject.ConsoleTest.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.ConsoleTest\obj\Debug\TheCancerProject.ConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.ConsoleTest\obj\Debug\TheCancerProject.ConsoleTest.exe
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.ConsoleTest\obj\Debug\TheCancerProject.ConsoleTest.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.ConsoleTest\bin\Debug\TheCancerProject.Core.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.ConsoleTest\bin\Debug\TheCancerProject.Core.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.ConsoleTest\bin\Debug\itextsharp.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.ConsoleTest\bin\Debug\itextsharp.xml

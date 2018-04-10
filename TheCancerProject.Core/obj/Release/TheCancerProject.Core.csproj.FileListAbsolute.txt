@@ -1,0 +1,14 @@
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Core\bin\Release\TheCancerProject.Core.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Core\bin\Release\TheCancerProject.Core.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Core\bin\Release\Antlr3.Runtime.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Core\bin\Release\Castle.Core.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Core\bin\Release\Castle.DynamicProxy2.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Core\bin\Release\FluentNHibernate.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Core\bin\Release\Iesi.Collections.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Core\bin\Release\Ionic.Zip.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Core\bin\Release\log4net.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Core\bin\Release\NHibernate.ByteCode.Castle.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Core\bin\Release\NHibernate.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Core\obj\Release\TheCancerProject.Core.csprojResolveAssemblyReference.cache
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Core\obj\Release\TheCancerProject.Core.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Core\obj\Release\TheCancerProject.Core.pdb

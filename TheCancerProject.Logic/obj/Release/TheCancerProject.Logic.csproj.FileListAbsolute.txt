@@ -1,0 +1,4 @@
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Logic\bin\Release\TheCancerProject.Logic.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Logic\bin\Release\TheCancerProject.Logic.pdb
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Logic\obj\Release\TheCancerProject.Logic.dll
+C:\Users\App-Sope\Documents\Visual Studio 2015\Projects\TheCancerProject\TheCancerProject.Logic\obj\Release\TheCancerProject.Logic.pdb

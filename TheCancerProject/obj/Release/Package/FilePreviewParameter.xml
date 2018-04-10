@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="TheCancerRecProject" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\App-Sope\\Documents\\Visual\ Studio\ 2015\\Projects\\TheCancerProject\\TheCancerProject\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\App-Sope\\Documents\\Visual\ Studio\ 2015\\Projects\\TheCancerProject\\TheCancerProject\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="connection-Web.config Connection String" description="" value="Data Source=LAPTOP-O8KOG02Q\SQLEXPRESS;Initial Catalog=TheCancerProject; User ID=sa; Password=1234567890; Max Pool Size=300; Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\App-Sope\\Documents\\Visual\ Studio\ 2015\\Projects\\TheCancerProject\\TheCancerProject\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='connection']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=tcp:cancerrecprojectserver.database.windows.net,1433;Initial Catalog=TheCancerProject;User ID=mogundipe@cancerrecprojectserver.database.windows.net;Password=tiwatope8&amp;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\App-Sope\\Documents\\Visual\ Studio\ 2015\\Projects\\TheCancerProject\\TheCancerProject\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>
