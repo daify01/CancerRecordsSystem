@@ -9,5 +9,5 @@ This application was developed using Asp.Net(C#). It uses Nhibernate for the ORM
 **IMPORTANT PROJECTS IN SOLUTION**
 1) TheCancerProject.Core - Core Class and properties definitions for the application
 2) TheCancerProject.Data - Contains methods for reuseable queries that utilize the Nhibernate Database access
-3) TheCancerProject.Logic - Contains the business logic of the application
-4) TheCancerProject - The web application (containing all web pages in the app)
+3) TheCancerProject.Logic - Contains common business logic of the application
+4) TheCancerProject - The web application (containing all web pages in the app) and other code logic in code behind files of web pages.
